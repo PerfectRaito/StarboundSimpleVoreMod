@@ -217,9 +217,8 @@
   },
   {  
     "op":"add",
-    "path":"/converse/avali",
-    "value" : {
-			"rodent" : [
+    "path":"/converse/avali/rodent",
+    "value" : [
 				"You're so fluffy!",
 				"You smell rather nice!",
 				"*Lick* Taste as adorable  as you look~!",
@@ -242,11 +241,10 @@
 				"Come, relax, stay a while. Your scent attacts more Avali guests!",
 				"Mind if I pratice some hunting techniques on you?"
 			]
-		}
   },
   {  
     "op":"add",
-    "path":"/converse/felin",
+    "path":"/converse/felin/rodent",
     "value" : [
 				"Hello, little Rodent~",
 				"Well, arn't your just a cute little rodent!",
