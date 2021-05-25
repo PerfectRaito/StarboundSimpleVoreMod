@@ -134,6 +134,17 @@
 			"*hugs*"
           ]
         }
+      },
+	  "greeting" : {
+        "default" : {
+          "default" : [
+            "^pink;<3",
+			":D",
+			"^3^~^pink;<3",
+			":3",
+			"*hugs*"
+          ]
+        }
       }
     }
   },

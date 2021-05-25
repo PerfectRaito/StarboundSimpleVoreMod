@@ -67,6 +67,8 @@ function interact(args)
 				if stopWatch[#victim] <= stageInterval then
 					reqRelease(args)
 					npc.say("^blue;<3")
+				else
+					stopWatch[#victim] = stopWatch[#victim] - stageInterval
 				end
 			else
 				reqRelease(args)
